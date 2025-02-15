@@ -1,0 +1,24 @@
+.box div {
+
+    border: 2px solid;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    align-items: center;
+
+    border-radius: 25px;
+    background-color: red;
+    height: 40px
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.box2{
+    width: 50px;
+    height: 20%
+}
